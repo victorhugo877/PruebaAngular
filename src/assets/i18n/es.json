@@ -1,0 +1,9 @@
+{
+    "RECOMMENDATIONS": "Recomendaciones para los siguientes pasos",
+    "IDENTITY_TITLE": "Ten a la mano tu documento de identidad",
+    "IDENTITY_DESCRIPTION": "Durante el proceso, te pediremos fotos de tu documento para validar tu identidad. Por favor, súbelo o toma la foto evitando reflejos o luces que no permitan verlo claramente.",
+    "LIFE_TEST_TITLE": "Prueba de vida",
+    "LIFE_TEST_DESCRIPTION": "Vamos a tomar una foto tuya (selfie) en tiempo real. Asegúrate de que haya buena luz y evita llevar gorra, gafas o cualquier otro objeto que pueda dificultar que se vea bien tu cara.",
+    "VALIDATION_TITLE": "Validación de información",
+    "VALIDATION_DESCRIPTION": "Es clave que siempre des información real y sincera para asegurar el éxito del proceso."
+}
